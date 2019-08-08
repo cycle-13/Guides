@@ -52,3 +52,7 @@ Host github.com-work
 Use identity specified in config
 > git clone git@github.com:personal/my_repo.git
 >$ git clone git@github.com-work:[my work GitHub group]/[my project].git
+
+### Markdown
+* Default readme file format
+* https://guides.github.com/features/mastering-markdown/
