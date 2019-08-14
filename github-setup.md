@@ -38,7 +38,7 @@ Create new ssh key with a new name (examples below)
 * id_rsa_a and id_rsa_b
 * work_rsa and personal_rsa
 
-To configure an individual repo to use a specific user / email address which overrides the global configuration. From the root of the repo run
+Configure an individual repo to use a specific user / email address which overrides the global configuration. From the root of the repo run
 ```
 git config user.name "Your Name Here"
 git config user.email your@email.com
